@@ -6,7 +6,7 @@
 <Navbar class="bg-white border-gray-200 dark:bg-gray-900 border-b m-0">
   <NavBrand href="/">
     <img src={logo} class="me-3 h-6 sm:h-9" alt="Flowbite Logo" />
-    <span class="self-center whitespace-nowrap text-2xl font-semibold dark:text-white">Flowbite</span>
+    <span class="self-center whitespace-nowrap text-2xl font-semibold dark:text-white">SpamDetector</span>
   </NavBrand>
   <NavHamburger />
   <NavUl>
