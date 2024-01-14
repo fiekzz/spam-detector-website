@@ -16,11 +16,11 @@
                     <span>&#40;FastAPI python&#41;</span>
                 </li>
                 <li>
-                    <a href="https://github.com/fiekzz/spam-detector-backend" target="_blank" class="text-lg hover:text-[#ea8663]">Frontend</a>
+                    <a href="https://github.com/fiekzz/spam-detector-website" target="_blank" class="text-lg hover:text-[#ea8663]">Frontend</a>
                     <span>&#40;SvelteKit&#41;</span>
                 </li>
                 <li>
-                    <a href="https://github.com/fiekzz/spam-detector-backend" target="_blank" class="text-lg hover:text-[#ea8663]">Data visualization and AI training</a>
+                    <a href="https://github.com/fiekzz/sms-spam-classifier" target="_blank" class="text-lg hover:text-[#ea8663]">Data visualization and AI training</a>
                     <span>&#40;Jupyter Notebook&#41;</span>
                 </li>
             </ul>

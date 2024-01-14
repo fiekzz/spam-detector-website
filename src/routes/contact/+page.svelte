@@ -16,11 +16,11 @@
                     <span>&#40;email&#41;</span>
                 </li>
                 <li>
-                    <a href="https://github.com/fiekzz/spam-detector-backend" target="_blank" class="text-lg hover:text-[#ea8663]">fiekzz.com</a>
+                    <a href="https://fiekzz.com" target="_blank" class="text-lg hover:text-[#ea8663]">fiekzz.com</a>
                     <span>&#40;website&#41;</span>
                 </li>
                 <li>
-                    <a href="https://github.com/fiekzz/spam-detector-backend" target="_blank" class="text-lg hover:text-[#ea8663]">fiekzz</a>
+                    <a href="https://linkedin.com/in/fiekzz" target="_blank" class="text-lg hover:text-[#ea8663]">fiekzz</a>
                     <span>&#40;linkedin&#41;</span>
                 </li>
             </ul>
