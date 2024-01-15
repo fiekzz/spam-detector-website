@@ -45,7 +45,7 @@
         <div class="flex flex-col items-start">
           <h3 class="text-3xl font-medium mb-2">Spam detector</h3>
           <div class="mb-4">
-            <h3>This AI has accuracy of 95%</h3>
+            <h3>This AI has accuracy of 95% and 100% precision score!</h3>
           </div>
           <div class="grid w-full gap-2">
             <Textarea placeholder="Type your message here." class="w-full lg:w-[800px] mb-2 h-[200px]" bind:value={text} />
